@@ -1,0 +1,10 @@
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\bin\Debug\ManagerUI.exe.config
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\bin\Debug\ManagerUI.exe
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\bin\Debug\ManagerUI.pdb
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.csproj.AssemblyReference.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.TournamentViewerForm.resources
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.Properties.Resources.resources
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.csproj.GenerateResource.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.exe
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerUI\obj\Debug\ManagerUI.pdb
