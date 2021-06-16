@@ -1,0 +1,9 @@
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\bin\Debug\netcoreapp3.1\ManagerLibrary.deps.json
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\bin\Debug\netcoreapp3.1\ManagerLibrary.dll
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\bin\Debug\netcoreapp3.1\ManagerLibrary.pdb
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.csproj.AssemblyReference.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.AssemblyInfoInputs.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.AssemblyInfo.cs
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.csproj.CoreCompileInputs.cache
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.dll
+C:\PROJECTS\my_projects\csharp-tournament-manager\csharp-tournament-manager\ManagerLibrary\obj\Debug\netcoreapp3.1\ManagerLibrary.pdb
